@@ -1,0 +1,155 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.ItsAdventureTime"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-67
+19-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-64
+20
+21    <uses-feature android:glEsVersion="0x00030000" />
+21-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-54
+21-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:19-51
+22    <uses-feature
+22-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-15:36
+23        android:name="android.hardware.vulkan.version"
+23-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-55
+24        android:required="false" />
+24-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-33
+25    <uses-feature
+25-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:5-18:36
+26        android:name="android.hardware.sensor.accelerometer"
+26-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-61
+27        android:required="false" />
+27-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-33
+28    <uses-feature
+28-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:5-21:36
+29        android:name="android.hardware.touchscreen"
+29-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-52
+30        android:required="false" />
+30-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-33
+31    <uses-feature
+31-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:5-24:36
+32        android:name="android.hardware.touchscreen.multitouch"
+32-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-63
+33        android:required="false" />
+33-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:9-33
+34    <uses-feature
+34-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:5-27:36
+35        android:name="android.hardware.touchscreen.multitouch.distinct"
+35-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-72
+36        android:required="false" />
+36-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:9-33
+37
+38    <application
+38-->E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+39        android:debuggable="true"
+40        android:extractNativeLibs="true"
+40-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:18-50
+41        android:icon="@mipmap/app_icon"
+41-->E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+42        android:label="@string/app_name" >
+42-->E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+43        <meta-data
+43-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:9-32:33
+44            android:name="unity.splash-mode"
+44-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-45
+45            android:value="0" />
+45-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-30
+46        <meta-data
+46-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-35:36
+47            android:name="unity.splash-enable"
+47-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-47
+48            android:value="True" />
+48-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-33
+49        <meta-data
+49-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:9-38:36
+50            android:name="unity.launch-fullscreen"
+50-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-51
+51            android:value="True" />
+51-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-33
+52        <meta-data
+52-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:9-41:37
+53            android:name="unity.allow-resizable-window"
+53-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-56
+54            android:value="False" />
+54-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-34
+55        <meta-data
+55-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:9-44:50
+56            android:name="notch.config"
+56-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-40
+57            android:value="portrait|landscape" />
+57-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-47
+58        <meta-data
+58-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:9-47:36
+59            android:name="unity.auto-report-fully-drawn"
+59-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-57
+60            android:value="true" />
+60-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-33
+61
+62        <activity
+62-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:9-70:20
+63            android:name="com.unity3d.player.UnityPlayerActivity"
+63-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-66
+64            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+64-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-194
+65            android:exported="true"
+65-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:13-36
+66            android:hardwareAccelerated="false"
+66-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-48
+67            android:launchMode="singleTask"
+67-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-44
+68            android:resizeableActivity="false"
+68-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:13-47
+69            android:screenOrientation="landscape"
+69-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:13-50
+70            android:theme="@style/UnityThemeSelector" >
+70-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-54
+71            <intent-filter>
+71-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:13-62:29
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:59:17-77
+72-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:59:27-74
+73
+74                <action android:name="android.intent.action.MAIN" />
+74-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:17-69
+74-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:25-66
+75            </intent-filter>
+76
+77            <meta-data
+77-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:13-66:40
+78                android:name="unityplayer.UnityActivity"
+78-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:17-57
+79                android:value="true" />
+79-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:17-37
+80            <meta-data
+80-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:13-69:40
+81                android:name="notch_support"
+81-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:68:17-45
+82                android:value="true" />
+82-->[:unityLibrary] E:\It's Adventure Time\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:69:17-37
+83        </activity>
+84    </application>
+85
+86</manifest>

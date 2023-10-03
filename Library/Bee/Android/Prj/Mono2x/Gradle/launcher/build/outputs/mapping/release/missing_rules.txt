@@ -1,0 +1,7 @@
+# Please add these rules to your existing keep rules in order to suppress warnings.
+# This is generated automatically by the Android Gradle plugin.
+-dontwarn com.google.android.gms.tasks.OnCompleteListener
+-dontwarn com.google.android.gms.tasks.OnSuccessListener
+-dontwarn com.google.android.gms.tasks.RuntimeExecutionException
+-dontwarn com.google.android.gms.tasks.Task
+-dontwarn com.google.android.play.core.assetpacks.AssetPackException
