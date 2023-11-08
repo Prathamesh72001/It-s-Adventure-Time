@@ -1,0 +1,7 @@
+com.DefaultCompany.ItsAdventureTime.BuildConfig
+com.DefaultCompany.ItsAdventureTime.R$color
+com.DefaultCompany.ItsAdventureTime.R$id
+com.DefaultCompany.ItsAdventureTime.R$mipmap
+com.DefaultCompany.ItsAdventureTime.R$string
+com.DefaultCompany.ItsAdventureTime.R$style
+com.DefaultCompany.ItsAdventureTime.R
